@@ -3,13 +3,7 @@
 ---
 
 ## 🌟 About Me  
-Hi! I'm **Wajih Lagha**, a passionate **Software Engineering Student & Flutter Developer** from Tunisia.  
-I work with **Flutter (Firebase Auth, Firestore, APIs, BLoC)**, **Laravel**, **SQL**, and modern tools like **FastAPI**, **Gemini API**, and **Telegram Bot**.  
-I enjoy creating clean UI, modern mobile experiences, and exploring everything in the IT world.  
-
-- ⚽ Big fan of **Messi**  
-- 🎬 Love **Friends, Breaking Bad, Stranger Things**  
-- 💻 Passionate about **mobile development, backend, cloud, and AI**  
+Hi! I'm **Wajih Lagha**, a passionate **Software Engineering Student & Flutter Developer** from Tunisia.
 
 ---
 
@@ -88,15 +82,5 @@ I enjoy creating clean UI, modern mobile experiences, and exploring everything i
   </a>
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&color=4A154B&logoColor=white&style=for-the-badge" height="25" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wajihlagha&show_icons=true&theme=transparent)
-
-## 🟡 Contribution Pac-Man
-
-![Pac-Man Contributions](https://github-contribution-stats.vercel.app/api/cards/pacman?user=wajihlagha)
 
 ---
