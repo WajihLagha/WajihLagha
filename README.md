@@ -91,20 +91,12 @@ I enjoy creating clean UI, modern mobile experiences, and exploring everything i
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=WajihLagha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wajihlagha&show_icons=true&theme=transparent)
 
+## 🟡 Contribution Pac-Man
 
----
-
-## 🟡 Contribution Pac-Man  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WajihLagha/WajihLagha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WajihLagha/WajihLagha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WajihLagha/WajihLagha/output/pacman-contribution-graph.svg">
-</picture>
+![Pac-Man Contributions](https://github-contribution-stats.vercel.app/api/cards/pacman?user=wajihlagha)
 
 ---
