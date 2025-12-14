@@ -10,8 +10,6 @@ Hi! I'm **Wajih Lagha**, a passionate **Software Engineering Student & Flutter D
 ## 🛠️ Skills & Technologies  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" />
